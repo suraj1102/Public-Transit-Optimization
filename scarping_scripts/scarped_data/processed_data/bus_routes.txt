@@ -1,0 +1,381 @@
+7-ISBT-17 To New Maloya Colony Via SEC 22/23, SEC 38/25
+7-New Maloya Colony To ISBT 17 Via Maloya, Sector 38/25, Sector 23 MKT
+01-CTU Workshop To New Maloya Colony Via Dadu Majra village
+01-New Maloya Colony To ISBT 17 Via PGI, Sector 16 Hospital
+01-Mani Majra To New Maloya Colony Via Railway Station, ISBT-17, PGI
+01-New Maloya Colony To ManiMajra Via PGI, I.S.B.T. 17, Railway Station
+01-ISBT 17 To Mani Majra Via Sector 19 market, Railway Station
+01-New Maloya Colony To CTU Workshop Via Dadu Majra village
+06-Workshop To ISBT 43
+06-ISBT - 43 To Workshop
+06-Depot 3 To New Maloya Colony
+06-New Maloya Colony To Raipur Kalan Via Sector 33 Market, Ramdarbar, Tribune Chowk,
+06-Raipur Kalan To New Maloya Colony Via Tribune Chowk, Ramdarbar,, Sector 33 Market
+06-Raipur Kalan To ISBT-43 Via Tribune Chowk, Ramdarbar, Sector 33 Market
+06-ISBT 43 To New Maloya Colony Via Sector 41/42, Sector 38 West Light Point
+06-New Maloya Colony To ISBT 43 Via Sector 38 Market, Sector 42 Market
+08-Phase 11 To ISBT 22/17
+08-PGI To ISBT 17 Via 10/16
+08-PGI To Phase 11 Via ISBT 17, Sector 34/35, ISBT 43
+08-ISBT 17 To Phase 11
+08-ISBT 43 To PGI Via Aroma, 16 Hospital, NEW OPD
+08-Sector 22/17 To PGI Via 16/10
+08-PHASE 11 MOHALI To PGI Via ISBT 43, AROMA, 16 HOSPITAL
+08-Phase 11 To ISBT 17
+08-Phase 11 Mohali To ISBT 43
+10-ISBT-43 To CTU Workshop
+10-ISBT-43 To Manimajra Via Ramdarbar, Tribune chowk, Railway Station
+10-CTU Workshop To ISBT-43
+10-Mani Majra To ISBT-43 Via Ramdarbar
+11-Civil Secretariat To Railway station Via UT Secretariat, ISBT 17, Sec26 market, CTU workshop
+11-Railway station To Civil Secretariat Via Sector 26 G/Market,Sec27/26,Sec 18/8,ISBT17
+17-Workshop To ISBT - 43
+17-ISBT- 43 To Behlana Via Sector- 22/17, Elante Mall
+17-ISBT - 43 To Workshop
+17-Behlana To ISBT 43 Via Elante Mall, Aroma, I.S.B.T. 17
+18-ISBT 43 To ISBT 17 Via Sector 36/35
+18-ISBT 17 To ISBT 43 Via Sector 36/35
+18-ISBT 43 To Sukhna lake Via Sector 36/35, ISBT 17, Mini Sectt
+18-ISBT 17 To Kaimbwala Via Sector 17/18, MLA Flat, Sukhna Lake
+18-Sukhna lake To ISBT 17 Via Mini Sectt, Sector 9 Market
+18-ISBT 43 To Kaimbwala
+18-Kaimbwala To ISBT 17 Via Sukhna Lake, Mini Secretariat
+18-Kaimbwala To ISBT 43
+20-ISBT 43 To Kharar Via Sohana
+20-ISBT 17 To Kharar Via Sector 21 Market, ISBT 43
+20-Kharar To ISBT 17 Via Sohana, ISBT 43
+20-Kharar To ISBT 43 Via Sohana
+22-ISBT 43 To IT Park Via ISBT 17
+22-IT Park To ISBT 43 Via ISBT 17
+26-ECO City To ISBT-17 Via PGI, Sector 17/16
+26-ECO City To CTU Workshop Via PGI, ISBT 17, Sector 28/29
+26-Dhakoli To PGI Via Zirakpur, Railway Station, Sector 22/17
+26-Railway station To Dhakoli Via hallo majra
+26-Workshop To ECO City Via Railway Station, ISBT 17, NEW OPD, PGI
+26-Dhakoli To Workshop Via Zirakpur, Airport Chowk
+26-Railway Station To ECO City Via CTU Workshop, Sector 22/17, 16 Hospital, PGI, Mullanpur
+26-ECO City To Dhakoli Via PGI, 16 Hospital, ISBT 17, CTU Workshop, Railway Station
+26-Dhakoli To ECO City Via Railway Station, CTU Workshop, Sector 22/17, 16 Hospital, PGI
+26-Sector 22/17 To ECO City Via PGI, 16 Hospital
+26-PGI To Railway Station Via ISBT 17
+26-ISBT 17 To Dhakoli Via Sector 19/20, Railway Station, Hallo Majra
+26-Dhakoli To Railway station Via Hallo Majra
+26-Dhakoli To Sector 22/17 Via Hallo Majra, Railway Station, Sector 20/19
+26-CTU workshop To Dhakoli Via Hallo Majra
+28-Mani Majra To New Maloya Colony Via ISBT 17
+28-New Maloya Colony To Workshop
+28-New Maloya Colony To Manimajra Via ISBT 17, Railway Station, Housing Board
+28-ISBT-17 To New Maloya Colony Via Sector 22/23. Sector-36 Market, Sector-38 West
+28-Mani Majra To ISBT--17 Via Railway Station, Sector-26 Grain Market
+28-Workshop To New Maloya Colony
+2A-Manimajra To CTU workshop Via PGI, ISBT 17, Elante Mall
+2A-Manimajra To Manimajra Via 28/26 Grain market, Sector 22/17, PGI, Daddu majra
+2A-Sector 22/17 To Manimajra Via Sector 15/11, PGI, sector 19/20,Elante Mall, Housing Board,
+2A-CTU workshop To Mani Majra Via Railway Station, Housing Board Chowk
+2A-Manimajra To ISBT 17 Via Sector 8/18, PGI, Dhanas
+2A-ISBT 17 To Manimajra Via Sector 18/21, Elante Mall, Railway Station
+2A-Railway station To Mani Majra
+2A-Mani Majra To Sector 22/17 Via Mani Majra Town, Railway Crossing, Sector 26 Grain Market,
+2C-Mani Majra To Mani Majra Via Railway station, Sector 30/27, Sector 22/17, PGI , ISBT 17
+2C-Mani Majra To CTU workshop Via Housing Board Chowk, Railway Station
+2C-Mani Majra To ISBT 17 Via Dhanas,PGI
+2C-Mani Majra To Sector 22/17 Via Railway Station
+2C-ISBT 17 To Manimajra Via sector 8/18, Modern complex, Indra colony
+2C-Mani Majra To ISBT 17 Via Railway station
+2C-Railway Station To Mani Majra Via Sector 22/17, PGI, Sector 7/19, Indira colony
+2C-Sector 22/17 To Mani Majra Via Daddu Majra, PGI, Sector 26/28, Indira Colony
+2C-CTU workshop To Mani Majra Via Sector 22/17, ISBT 17, Indra Colony
+2F-PGI To Dhakoli Border Via OPD, I.S.B.T 17, Railway Station, Housing Board,
+2F-Platinum Homes/Sanauli To Railway Station
+2F-Sector 4 Panchkula To PGI Via Railway Station, ISBT 17, PEC, OPD
+2F-Workshop To Platinum Homes/Sanauli
+2F-Railway Station To Sector 4 Panchkula Via Railway Crossing , Housing Board, Sector 11/12 Rally Chowk
+2F-PGI To Panchkula Sector-4 Via ISBT-17, Grain Market, Railway Station
+2F-Platinum Homes/Sanauli To Sector 22/17 Via Housing Board, Railway Station
+2F-PGI To Platinum Homes/Sanauli
+2F-Platinum Homes/Sanauli To PGI
+2F-PGI To ISBT 17
+2F-PGI To CTU Workshop
+2F-Panchkula Sector-4 To Railway Station Via Sector 15/10, Housing Board
+2F-Railway station To PGI Via Sector 27/26, ISBT 17
+2F-Railway station To Platinum Homes/Sanauli
+2F-CTU Workshop To PGI
+2F-Platinum Homes/Sanauli To Workshop Via Housing Board, Railway Station
+2F-ISBT 17 To Platinum Homes/Sanauli
+2F-Dhakoli To Railway Station Via Sector 21 Market, Housing Board
+2G-PGI To Housing Board Via Sector-11/15,Sector9/17,Sector 26/27,Kalagram, Housing Board Chowk
+2G-Housing Board To Panchkula Bus Stand Via Sector 7/8, Geeta bhawan
+2G-PGI To Panchkula Bus Stand Via Sector-11/15,16/10,9/17,Madhya Marg,Sector-8/18Geeta Bhawan PKL
+2G-Panchkula Bus Stand To Housing Board Via Geeta bhawan, Sector 8/7
+2G-PANCHKULA BUS STAND To PGI Via HOUSING BOARD,SECTOR 26 GRAIN MARKET,SECTOR 16/10
+2G-Sector 26 Grain market To PGI Via Sector-19/7, Sector- 8/18, Sector-17/9, Sector-16/10,Sector-15/11
+30-Nada Sahib To ISBT 43
+30-ISBT 43 To Nada Sahib
+30-Nada sahib To Sector 22/17 Via Mani Majra, Sector 20 Market
+30-Sector 17 To Nada sahib Via Sector 20 Market, Sector 26/27, Mani Majra
+30-ISBT 43 To Sector 17 Via Sector 36/35
+30-Mani Majra To ISBT 43 Via kalagram, 26/27,20,21,21/22,isbt 17,36/35,isbt 43
+30-ISBT 43 To Mani Majra Via Sector36/35, Isbt 17, 19/27,26/27, Kalagram, Manimajra
+30-Railway crossing To Nada sahib Via Kalagram, manimajra, majri chowk, Nada sahib
+30-ISBT 17 To ISBT 43 Via Sector 23/22, 36/35, 42/43, Isbt 43
+30-Sector 22/17 To ISBT 43 Via Sector 35/36
+30-Nada sahib To Housing board Via Mani Majra
+31-Omex Tower To PGI Via Ranimajra, DMC
+31-Sector 22/17 To OMEX Tower Via PGI, DMC,Ranimajra
+31-Mata Mansa Devi To Omex Tower Via Railway Station, SGGS 26, ISBT17, PGI, DMC, Ranimajra
+31-ISBT-17 To Mata mansa devi Via SGGS college, Railway station
+31-Omex Tower To Mata Mansa Devi Via Ranimajra, DMC, PGI, ISBT17, SGGS 26, Railway Station
+31-Mata mansa devi To Sector 22/17 Via Railway station, SGGS college
+32-PGI To Derabassi Via New OPD , ISBT 17, Grain market 26, Manimajra, Ramgarh
+32-Derabassi To PGI Via Ramgarh, Manimajra, Grain Market 26, Sector 22/17, New OPD
+34-PGI To ISBT 17 Via Punjab engineering college
+34-Zirakpur To Hallomajra
+34-Sector 22/17 To PGI Via Sector 16/17, Punjab engineering college(PEC)
+34-PGI To Zirakpur Via ISBT 17, Hallo Majra
+34-Hallo majra To Derabassi Via Zirakpur, Mubarkpur
+34-ISBT 17 To Derabassi Via Sector 20/33, Hallo Majra, Zirakpur
+34-Derabassi To Sector 22/17 Via Zirakpur, Hallo Majra, Sector 33/20
+34-Derabassi To PGI Via Mubarkpur, Hallo majra, Aroma, ISBT 17
+34-PGI To Derabassi Via ISBT 17, Aroma, Hallo majra, Mubarkpur
+37-Mani Majra To ISBT43 Via Kalagram, Railway Station, Ctu Workshop, Sector 22/17, Sector 35/36, ISBT 43
+37-ISBT 43 To Railway Station
+37-Railway Station To ISBT 43
+37-ISBT43 To ISBT17 Via Sector 36/35, Sector 23/22, ISBT 17
+37-ISBT43 To ISBT43 Via Sector 35/36, ISBT-17, Sector 28 MKT, Railway Station , Manimajra
+39-Mohali Ph XI To PGI Via ISBT 43
+39-ISBT 43 To Mohali Ph 11 Via Sector 68/79
+39-PGI To ISBT 43 Via ISBT 17
+39-ISBT 43 To PGI Via ISBT 17
+39-Mohali Ph 11 To ISBT 43 Via Sector 79/68
+39-PGI To Mohali Ph XI Via ISBT 43
+4A-ISBT 43 To ISBT 43 Via Sector 22/17, PGI, Dhanas,,Maloya
+4C-ISBT 43 To ISBT 43 Via Maloya, Aroma
+5A-ISBT 43 To Ramdarbar Via Sec 45 MKT
+5A-Ramdarbar To ISBT 43 Via PGI
+5A-Ramdarbar To Ramdarbar Via PGI , Maloya, ISBT 43
+5C-Ramdarbar To ISBT 43 Via Sec 45 MKT
+5C-Ramdarbar To Ramdarbar Via ISBT 43, MALOYA
+5C-ISBT 43 To Ramdarbar Via Maloya, PGI, sector 9/17
+71-Mani majra To Kaimbwala Via Mata Mansa Devi
+71-ISBT 17 To ISBT 43
+71-Kaimbwala To ISBT 17 Via Mata Mansa Devi, Modern Complex, Sector 18 Market
+71-ISBT 17 To Kaimbwala Via Sector 18 Market, Kalagram
+71-Mani majra To ISBT 43 Via Indra Colony, Sector 27 Market, ISBT 17
+71-Kaimbwala To Mani majra Via Mata Mansa Devi
+71-Mani majra To Saketri Via Mata Mansa Devi
+71-Saketri To ISBT 43 Via Mani Majra, Kalagram, ISBT 17
+71-ISBT 43 To Saketri Via ISBT 17, Kalagram, Mani Majra
+71-Kaimbwala To ISBT-43 Via Isbt 17, Railway crossing
+71-ISBT 43 To Kaimbwala Via ISBT-17, Sector-27 market, Railway crossing, Manimajra
+71-ISBT 43 To ISBT 17
+71-Saketri To Mani majra Via Mata Mansa Devi
+76-Kurali To ISBT 17 Via Mullanpur, P.G.I.
+76-Block To ISBT 17 Via Mullanpur, P.G.I.
+76-ISBT 17 To Kurali Via P.G.I., Mullanpur
+76-ISBT 17 To Block Via P.G.I., Mullanpur
+79-Zirakpur To Sector 22/17 Via Airport chowk, Hallomajra, Sector31/29, Sector 20 Market ,Aroma, Sector 22/17
+79-Chhatbir To PGI Via Zirakpur, Hallo majra, Sector-20, Sector-22/17
+79-Chhatbir zoo To Sector 22/17 Via Dayalpur, Hallo Majra, Sector 21 Market
+79-PGI To Chhatbir Via ISBT-17, Sector-20, Hallo majra, Zirakpur
+79-hallo majra To Zirakpur Via Airport chowk,
+79-PGI To Zirakpur Via Punjab engineering college(PEC), ISBT 17, Hallo Majra
+79-Zirakpur To PGI
+79-Hallo Majra To Chhatbir
+79-Sector 22/17 To PGI Via Punjab engineering college(PEC)
+80-PGI To Zirakpur Via Aroma, Sector-20 market, Hallo majra
+80-Zirakpur To PGI Via Hallo majra, Sector-20 market, Aroma
+80-ISBT 17 To Zirakpur Via Sector 21 Market, Elante Mall, Mauli Jagran
+80-Hallo majra To PGI Via Elante Mall, Sector 21 Market, Punjab engineering college(PEC)
+80-Sector 22/17 To PGI Via Punjab engineering college(PEC)
+80-Zirakpur To Sector 22/17 Via Mauli Jagran, Elante Mall, Sector 21 Market
+80-PGI To ISBT 17 Via Punjab engineering college(PEC)
+80-Zirakpur To Colony No 4 Via Baltana, Mauli jagran, Hallo majra
+80-Colony No 4 To Zirakpur Via Hallo majra, Mauli jagran, Baltana
+85-ZIRAKPUR To ISBT 43 Via BALTANA, HALLOMAJRA, 32 Hospital, Sector 22/17
+85-HALLOMAJRA To ISBT 43 Via 30/32 21/34 22/17 KISSAN BHAWAN ATTAWA CHOWK
+85-HALLOMAJRA To ZIRAKPUR Via VIKAS NAGAR, RAIPUR KALAN ,BALTANA
+85-ISBT 43 To ZIRAKPUR Via SECTOR 42/43, ISBT 17, TRIBUNE CHOWK,HALLOMAJRA, BALTANA
+85-ISBT 43 To ISBT 17 Via SECTOR 42/43,SECTOR 36/35,SECTOR 22/23,
+85-ISBT 17 To ZIRAKPUR Via AROMA, SECTOR 20/33,SECTOR 31/29,HALLOMAJRA,MAULI JAGRAN,BALTANA
+85-Sector 22/17 To ISBT 43 Via Sector 35/36, Sector 42/43
+85-ZIRAKPUR To 22/17 Via BALTANA, MOULI JAGARAN HALLOMAJRA 30/32 21/34
+9A-Mata mansa devi To Mata mansa devi Via Railway crossing, Ram darbar, CTU workshop
+9A-Ram Darbar To Mata Mansa Devi Via Tribune Chowk, Kalagram, Mani Majra FR, Mata Mansa Devi
+9A-CTU workshop To Mata mansa devi Via Railway Station, Mani Majra
+9A-Mata mansa devi To CTU workshop Via Mani Majra, Sector 33/32, Phase 11 mohali
+9A-Mata Mansa Devi To Railway station
+9A-Mani majra To Mata mansa devi
+9A-Railway station To Mata mansa devi Via kalagram,Housing board, Manimajra
+9C-Mata Mansa Devi To Railway Station Via Mani majra Fun Republic, Housing Board, Kalagram
+9C-Railway station To Mata mansa devi
+9C-Mani Majra To Mata Mansa Devi Via Housing Board, Railway station, Mani Majra FR
+9C-Mata mansa devi To Mata mansa devi Via Railway station, CTU workshop, Ram darbar,
+9C-Mata Mansa Devi To Mani Majra Via Phase 11
+9C-Mata mansa devi To Sector 19/27 Via Railway Station, Phase 11 mohali, Sector 45/46
+9C-Mata mansa devi To CTU workshop Via Mani Majra, Railway Station
+9C-CTU workshop To Mata mansa devi Via Ram Darbar, Sector 45/46, Sector 26/27, Mani Majra
+101-ISBT-17 To MANAULI Via I.S.B.T.-43, SOHANA
+101-PGI To MANAULI Via ISBT-17, ISBT-43, SOHANA,
+101-MANAULI To PGI Via SOHANA, ISBT-43, ISBT-17
+101-MANAULI To ISBT-17 Via SOHANA, ISBT-43
+11A-Sukhna Lake To Rock Garden Via Bird Park
+11A-11B - Punjab Civil Secretariat To Railway Station Via CTU Workshop, 26 Grain Market, Sukhna Lake
+11A-11B - Railway Station To Punjab Civil Secretariat Via Sukhna Lake, 26 Grain Market, CTU Workshop
+11A-Rock Garden To Sukhna Lake Via Bird Park
+202-ISBT 43 To DEPOT 3 WORKSHOP
+202-DEPOT 3 WORKSHOP To ISBT 43
+202-Punjab Civil Secretariat To ISBT 43 Via ISBT 17
+202-ISBT 43 To Punjab Civil Secretariat Via ISBT 17
+202-ISBT43 To ISBT17 Via sec43/44 ,42/43, 23/22 , ISBT17
+202-ISBT 17 To PUNJAB CIVIL SECRATARIAT Via Sector 17/9, UT sctt, mini sectt, high court ,punjab civil sectt
+206-DEPOT 3 WORKSHOP To ISBT 43
+206-ISBT 43 To IT Park Via Via ISBT 17 , 26 grain market
+206-IT Park To ISBT 43 Via VIA 26 Grain market , ISBT 17
+206-ISBT 43 To DEPOT 3 WORKSHOP
+20A-Kharar To ISBT 17 Via Sohana, ISBT 43
+20A-ISBT 43 To Kharar Via Sohana, Landran
+20A-ISBT 17 To Kharar Via Sector 21 Market, ISBT 43
+212-PGI To ISBT 17
+212-Zirakpur To Sector 22/17 Via Hallo majra, Sector 32/30, Aroma
+212-Derabassi To PGI Via Hallo majra, Sector-20/33, ISBT 17
+212-Sector 22/17 To PGI Via Punjab engineering college
+212-Tribune To Derabassi Via Zirakpur
+212-ISBT 17 To Dera Bassi Via Sector 20/33, Hallo Majra , Zirakpur
+212-Dera Bassi To ISBT 17 (Sector 22/17) Via Bhankarpur, Zirakpur, Sector 33/20
+212-Hallo Majra To Derabassi Via Zirakpur
+212-PGI To Zirakpur Via Punjab engineering college, ISBT 17 (Sector 22/17), Hallo Majra
+212-PGI To Derabassi Via ISBT 17, Sector-20/33, Hallo majra
+213-Landran To Hallomajra Via Sohana, ISBT 43
+213-Hallo majra To Derabassi
+213-Landran To Derabassi Via Sector
+213-Derabassi To Hallo Majra Via Zirakpur
+213-ISBT 43 To Landran
+213-Derabassi To ISBT 43 Via Zirakpur, Sector 45 Market
+213-Derabassi To Landran Via Zirakpur, Hallo majra, ISBT
+214-Nada sahib To CTU Workshop Via Mani Majra, Railway station
+214-ECO City To Nada Sahib Via PGI, 16 Hospital, ISBT 17, CTU Workshop, Railway Station, Mani Majra
+214-Nada Sahib To ECO City Via Mani Majra, Housing Board, Railway Station, Sector 22/17, 16 Hospital, PGI
+214-Railway Station To ECO City Via 28 Market, Sector 22/17, 16 Hospital, PGI, Mullanpur
+214-ECO City To Mani Majra Via Mullanpur, PGI, 16 Hospital, ISBT 17, Railway Station, Housing Board
+214-ECO City To CTU Workshop Via PGI, ISBT17, Sector 28 market
+214-CTU Workshop To ECO City Via Sector 28mkt, Sector 22/17, PGI, Mullanpur
+214-Railway Station To Nada Sahib Via Housing board, Manimajra, command Hospital, Old Panchkula
+214-Nada Sahib To Railway station
+214-ISBT 17 To Nada Sahib Via CTU Workshop, Railway Station, Mani Majra
+214-CTU Workshop To Nada sahib Via Railway station, Mani Majra
+214-Nada Sahib To Sector 22/17 Via Mani Majra, CTU Workshop
+216-Derabassi To ISBT 43 Via 21/34, 216A
+216-ISBT 43 To Dera Bassi Via Sec 23/22, ISBT 17 (SEC 22/17) ,Aroma
+216-Zirakpur To ISBT 43 Via Aroma
+216-ISBT 43 To Derabassi Via 21/34, 216A
+216-ISBT 43 To Zirakpur Via Aroma
+216-Dera Bassi To ISBT 43 Via Sector 32 Hospital/30 ,Sector 34/21, Aroma
+219-Bhabat To Sector 22/17 Via Victoria Enclave, Zirakpur, 32 Hospital,
+219-Bhabat To Dhanas Via ZIRAKPUR, TRIBUNE CHOWK, ISBT 17, 16 HOSPITAL ,PGI
+219-Dhanas To Bhabat Via PGI. 16 HOSPITAL , ISBT 17, TRIBUNE CHOWK ZIRAKPUR
+219-219A - Air Force Station To PGI Via Zirakpur, 32 Hospital, Aroma, 16 Hospital, New OPD
+219-PGI To ISBT 17 Via New OPD, Sector 10/16
+219-Hallo Majra To Bhabat Via Zirakpur,Victoria Enclave
+219-ISBT 17 To Bhabat Via 32 Hospital, Zirakpur, Victoria Enclave
+219-219A-Dhanas To Air Force Station Via PGI, 16 Hospital, ISBT 17, 21 Market, 32 Hospital, Zirakpur
+219-Dhanas To ISBT 17 Via PGI. 16 HOSPITAL , ISBT 17,
+219-22/17 To Dhanas Via 16/17, 16/10, PGI, , dhanas
+239-ISBT 43 To WORKSHOP
+239-Lake To ISBT 43 Via MINI SECTT. , ISBT17, SECTOR 35/34
+239-ISBT 43 To Lake Via SECTOR 34/35, I.S.B.T. 17, MINI SECRETARIAT
+239-Sukhna Lake To ISBT 17
+239-ISBT 17 To ISBT 43
+239-WORKSHOP To ISBT 43
+23A-ISBT 43 To DEPOT 3 WORKSHOP
+23A-Khuda Aliser To ISBT 43
+23A-ISBT 43 To Khuda Aliser
+23A-DEPOT 3 WORKSHOP To ISBT 43
+240-Mata mansa devi To ISBT 43
+240-ISBT 43 To Mata Mansa Devi
+241-M.M. Devi To ISBT 43 Via Mani Majra, Sector 26/28 Grain Market
+241-ISBT 43 To Mata mansa devi Via YPS Sector 52/61, Sector 44/45
+242-PGI To Landran Via SEC 16/10 GENERAL HOSPITAL,ISBT 17 (SEC 22/17),IVY HOSPITAL DOWN
+242-PGI To Tangori Via Sector 53/42, IVY Hospital
+242-Landran To ISBT 43 Via IVY Hospital Up ,Sec 53/42
+242-Tangori To PGI Via IVY HOSPITAL UP, Sec 42/53
+242-PGI To ISBT 43 Via ISBT 17
+242-ISBT 43 To Tangori Via Sec 42/53, Landran Up
+242-ISBT 43 To PGI Via Aroma, New OPD
+242-Tangori To ISBT 43 Via LANDRAN UP,Sec 42/53
+24A-PGI To ISBT 43 Via ISBT 17
+24A-ISBT 43 To PGI Via ISBT 17
+24A-ISBT 17 To ISBT 43
+24A-PGI To ISBT 17 Via Sector 10/16 General Hospital (Chandigarh)
+24C-ISBT 17 To ISBT 43 Via Sector 36/35
+24C-ISBT 43 To ISBT 17 Via Sector 36/35
+28A-RANI MAJRA To ISBT 43 Via MULLANPUR , PGI, ISBT 17
+28A-Sarangpur barrier To Rani Majra Via Mullanpur, Ecocity, DLF Chowk, Rasulpur, Omax Phase-2
+28A-ISBT- 43 To Rani Majra Via ISBT-17, PGI, Sarangpur, Mullanpur, Ecocity, DLF Chowk, Rasulpur, Omax Phase-2
+28A-ISBT- 43 To Sarangpur barrier Via Kissan bhawan, ISBT-17, PGI, Khuda lahora, Sarangpur barrier
+30A-ISBT 43 To Cantonment
+30A-Cantonment To ISBT 43
+30B-ISBT 43 To SECTOR 4 (PANCHKULA)
+30B-ISBT 43 To Housing board Via Sector 36/35, ISBT 17, Kalagram
+30B-Sector 4 Panchkula To Sector 26 Via 11/12,10/15,9/16,Kalagram, Sector 26
+30B-Housing board To Punchkula sector 4 Via Sector 10/15 Panchkula
+30B-ISBT 43 To ISBT 17 Via Sector 36/35
+30B-Housing Board To ISBT-43 Via Railway crossing,Grain MKT,27 MKT,20, 22/17,ISBT 43
+30B-Ramgarh To ISBT43 Via Nada Saab, Railway Crossing, Aroma, Sector 35/36
+30B-ISBT 43 To Ramgarh Via Sector 26 grain market, sector 4 panchkula, nada sahib
+30B-Ramgarh To Sector 22/17 Via Nada Saab, Sector 16/9 Panchkula, Railway Crossing, Sector 20 Market
+30B-ISBT 17 To Ramgarh Via Sector 26 grain market, sector 4 panchkula, nada sahib
+30B-Sector 4 Panchkula To Housing Board Via Sector-15/10 Panchkula
+30B-Ramgarh To Sector 26 Grain mkt Via Nada Sahib, Sec 4 Pkl, Housing board
+30B-Sector 4 Panchkula To Sector 22/17 Via Sector 20 market
+30B-Sector 22/17 To ISBT 43
+30B-SECTOR 4 (PANCHKULA) To ISBT 43
+32B-Housing Board To PGI Via Kalagram, Railway station, CTU Workshop, Sector 22/17, PEC, New OPD
+32B-PGI To ISBT - 17 Via New OPD, PEC, Sector -10/16,Sector -16/17
+32B-PGI To Ramgarh Via New OPD, CTU Workshop,Housing Board, Panchkula Bus Stand, Ramgarh
+32B-Ramgarh To Pgi Via PANCHKULA BUS STAND, HOUSING BOARD,RAILWAY STATION, ISBT 17, PGI
+32B-Railway Station To Ramgarh Via Kalagram,Panchkula Bus Stand, Devilal Chowk,,Sector 26 Panchkula
+32B-PGI To Railway Station Via ISBT-17
+32B-ISBT 17 To RAMGARH Via RAILWAY STATION, HOUSING BOARD
+32B-PGI To CTU Workshop Via New OPD, ISBT-17, Sector-8/18, Sector- 26/28, CTU Workshop
+32B-PGI To PANCHKULA BUS STAND Via OPD, ISBT 17,RAILWAY STATION
+32B-CTU Workshop To Ramgarh Via Railway station, Devilal chowk, Sector 26
+32B-Panchkula Bus Stand To Railway Station Via Housing Board, kalagram,
+32B-Panchkula Bus Stand To Housing Borad Via Sector-15/10,Sector-16/9
+32B-Ramgarh To Railway Station Via Sector 26 Panchkula,Sector 22/23, Devilal chowk,Panchkula Bus Stand, Housing Board
+35A-Sector-123 To I.S.B.T.-17 Via Phase-6, PGI
+35A-Sector 123 (Mohali) To PGI Via Sector-125, Jal Vayu Tower, Balongi, Phase-6, PGI
+35A-PGI To ISBT 17 Via New OPD, Sector 11/15, Sector 10/16, Sector 17/16, ISBT 17
+35A-ISBT-17 To Sector-123 Via PGI, Phase-6
+35B-Kharar To ISBT 17 Via Phase 6, ISBT 43
+35B-Kharar To Phase 6 Via Desu Majra
+35B-Phase 6 To Kharar Via Desu Majra
+35B-ISBT 17 To Kharar Via ISBT 43, Phase 6
+38B-Tangori To PGI Via Plaksha University, ISBT 43, ISBT 17, New OPD
+38B-ISBT 43 To PGI Via Kissan bhawan, sector 22/17, GMCH 16
+38B-PGI To Tangori Via New OPD, ISBT 17, ISBT 43, Plaksha University
+70A-SP Barrier To Jayanti Devi Via Parch, sionk
+70A-Jayanti Majri To ISBT-17 Via PEC
+70A-Jayanti Majri To Mata Mansa Devi Via PEC, ISBT-17, Sector 27 Market, Railway Station
+70A-Mata Mansa Devi To Jayanti Majri Via Railway Station, Sector 27 Market, ISBT-17, PEC
+I1E-24 - ISBT 43 To ISBT 17
+I1E-ISBT 17 To KHARAR Via PHASE-6, ISBT MOHALI
+I1E-KHARAR To ISBT 17 Via ISBT MOHALI, PHASE-6,
+I1E-24 - ISBT 17 To ISBT 43
+11SB-Sector 9A To Sector 9A Via Rock Garden, Bird Park, Sukhna Lake
+123A-ISBT 17 To Railway Station(Mohali) Via ISBT-43, Sec-50 Market
+123A-PGI To ISBT 17 Via PEC
+123A-Railway Station(Mohali) To PGI Via Sector- 50 market, ISBT43, ISBT 17, PEC
+123A-PGI To ISBT 43 Via PEC, ISBT-17,
+123A-PGI To Railway Station(Mohali) Via PEC, ISBT-17, ISBT-43, Sec-50 Market
+123A-ISBT 43 To Railway Station(Mohali) Via Sector- 50 market
+123A-Railway Station(Mohali) To Sector 22/17 Via Sec-50 Market, ISBT-43,
+123A-Sector 22/17 To PGI Via PEC
+28 B-Daddu Majra Colony To EcoCity-2 Block-C Takipur Via Dhanas, Mullanpur, Homi Bhabha Hospital
+28 B-ISBT-43 To Ecocity-2 Block-C Takipur Via Dhanas, Mullanpur, homi bhaba
+28 B-Eco City-2 Block-C Takipur To ISBT-43 Via Dhanas, Mullanpur
+38AS-New Airport To ISBT 17 Via Sohana, I.S.B.T. 43
+38AS-ISBT 17 To New Airport Via I.S.B.T. 43, Sohana
+C551E-PGI To ISBT 43 Via ISBT 17
+C551E-ISBT 43 To PGI Via Sec22/17, 16 hospital, new opd ,pgi
+C551E-PGI To Workshop
+C551E-Workshop To PGI Via Sec 38/25 light point
