@@ -19,4 +19,4 @@ from shapely.affinity import rotate
 AQI_DATA_FOLDER_PATH = "aqi_data/"
 TRAFFIC_DATA_FOLDER_PATH = "traffic_data/"
 BUS_STOP_LOCATIONS_PATH = "scarping_scripts/scarped_data/processed_data/bus_stop_locations.csv"
-BUS_STOP_ROUTE_LIST_PATH = "scarping_scripts/scarped_data/processed_data/bus_routes.txt"
+BUS_STOP_ROUTE_LIST_PATH = "../scarping_scripts/scarped_data/processed_data/bus_routes.txt"
