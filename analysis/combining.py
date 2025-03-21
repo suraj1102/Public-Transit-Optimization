@@ -1,12 +1,4 @@
-import osmnx as ox
-import matplotlib.pyplot as plt
-import pandas as pd
-import numpy as np
-import json
-from shapely.geometry import Point
-import geopandas as gpd
-import matplotlib.colors as mcolors
-from dateutil import parser
+from imports import *
 
 bus_stop_location_filepath = "scarping_scripts/scarped_data/processed_data/bus_stop_locations.csv"
 aqi_data_filepath = "aqi_data/aqi_data_Sector_22.xlsx"
@@ -30,13 +22,7 @@ def get_bus_stops_within_buffer(center_point, buffer_radius_km):
         lambda row: haversine(center_point[1], center_point[0], row["long"], row["lat"]),
         axis=1
     )
-    bus_stops_within_buffer = bus_stops[
-        (bus_stops["distance_km"] <= buffer_radius_km) & 
-        (~bus_stops["name"].str.contains("school", case=False, na=False)) &
-        (~bus_stops["name"].str.contains("guru", case=False, na=False)) &
-        (~bus_stops["name"].str.contains("community", case=False, na=False)) &
-        (~bus_stops["name"].str.contains("park", case=False, na=False))
-    ]
+    bus_stops_within_buffer = bus_stops[bus_stops["distance_km"] <= buffer_radius_km]
 
     return bus_stops_within_buffer
 
@@ -112,7 +98,7 @@ def get_closest_AQI_data(timestamp_input):
     # Find and return the row with the smallest difference
     closest_idx = df['diff'].idxmin()
     return df.loc[closest_idx]
-    
+
 
 # --- Define center point and buffer (Sector 22 / AQI Station) ---
 center_point = (30.735567, 76.775714)  # (lat, lon)
@@ -134,7 +120,6 @@ traffic_data_files = [
 ]
 
 metrics = ["jamFactor", "freeFlow", "speed"]
-metrics = ["speedUncapped"]
 aqi_data_per_timestamp = []
 sampling_time_list = []
 
@@ -213,7 +198,7 @@ aqi_metrics_per_timestamp = [
     [aqi_data_per_timestamp[1][col] for col in columns]
 ]
 
-# Create figure
+# Create AQI comparison
 fig, ax = plt.subplots(figsize=(12.5, 2))
 ax.set_frame_on(False)
 ax.xaxis.set_visible(False)
@@ -221,7 +206,6 @@ ax.yaxis.set_visible(False)
 
 print([data["Timestamp"] for data in aqi_data_per_timestamp])
 
-# Create table
 table = plt.table(cellText=aqi_metrics_per_timestamp,
                   colLabels=columns,
                   rowLabels=[data["Timestamp"] for data in aqi_data_per_timestamp],
@@ -229,7 +213,6 @@ table = plt.table(cellText=aqi_metrics_per_timestamp,
                   loc='center')
 
 table.auto_set_font_size(True)
-# table.set_fontsize(10)
 table.auto_set_column_width([i for i in range(len(columns))])
 plt.title("AQI Data Comparison")
 
