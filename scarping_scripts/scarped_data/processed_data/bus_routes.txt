@@ -359,7 +359,7 @@
 70A-Mata Mansa Devi To Jayanti Majri Via Railway Station, Sector 27 Market, ISBT-17, PEC
 I1E-24 - ISBT 43 To ISBT 17
 I1E-ISBT 17 To KHARAR Via PHASE-6, ISBT MOHALI
-I1E-KHARAR To ISBT 17 Via ISBT MOHALI, PHASE-6,
+I1E-KHARAR To ISBT 17 Via ISBT MOHALI, PHASE-6
 I1E-24 - ISBT 17 To ISBT 43
 11SB-Sector 9A To Sector 9A Via Rock Garden, Bird Park, Sukhna Lake
 123A-ISBT 17 To Railway Station(Mohali) Via ISBT-43, Sec-50 Market

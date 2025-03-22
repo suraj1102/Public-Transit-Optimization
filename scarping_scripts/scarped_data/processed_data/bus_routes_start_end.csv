@@ -1,0 +1,382 @@
+,route_number,start_stop,end_stop,via_stops
+0,7,isbt-17,new maloya colony,"['sec 22/23', 'sec 38/25']"
+1,7,new maloya colony,isbt 17,"['maloya', 'sector 38/25', 'sector 23 mkt']"
+2,01,ctu workshop,new maloya colony,['dadu majra village']
+3,01,new maloya colony,isbt 17,"['pgi', 'sector 16 hospital']"
+4,01,mani majra,new maloya colony,"['railway station', 'isbt-17', 'pgi']"
+5,01,new maloya colony,manimajra,"['pgi', 'i.s.b.t. 17', 'railway station']"
+6,01,isbt 17,mani majra,"['sector 19 market', 'railway station']"
+7,01,new maloya colony,ctu workshop,['dadu majra village']
+8,06,workshop,isbt 43,
+9,06,isbt - 43,workshop,
+10,06,depot 3,new maloya colony,
+11,06,new maloya colony,raipur kalan,"['sector 33 market', 'ramdarbar', 'tribune chowk']"
+12,06,raipur kalan,new maloya colony,"['tribune chowk', 'ramdarbar', 'sector 33 market']"
+13,06,raipur kalan,isbt-43,"['tribune chowk', 'ramdarbar', 'sector 33 market']"
+14,06,isbt 43,new maloya colony,"['sector 41/42', 'sector 38 west light point']"
+15,06,new maloya colony,isbt 43,"['sector 38 market', 'sector 42 market']"
+16,08,phase 11,isbt 22/17,
+17,08,pgi,isbt 17,['10/16']
+18,08,pgi,phase 11,"['isbt 17', 'sector 34/35', 'isbt 43']"
+19,08,isbt 17,phase 11,
+20,08,isbt 43,pgi,"['aroma', '16 hospital', 'new opd']"
+21,08,sector 22/17,pgi,['16/10']
+22,08,phase 11 mohali,pgi,"['isbt 43', 'aroma', '16 hospital']"
+23,08,phase 11,isbt 17,
+24,08,phase 11 mohali,isbt 43,
+25,10,isbt-43,ctu workshop,
+26,10,isbt-43,manimajra,"['ramdarbar', 'tribune chowk', 'railway station']"
+27,10,ctu workshop,isbt-43,
+28,10,mani majra,isbt-43,['ramdarbar']
+29,11,civil secretariat,railway station,"['ut secretariat', 'isbt 17', 'sec26 market', 'ctu workshop']"
+30,11,railway station,civil secretariat,"['sector 26 g/market', 'sec27/26', 'sec 18/8', 'isbt17']"
+31,17,workshop,isbt - 43,
+32,17,isbt- 43,behlana,"['sector- 22/17', 'elante mall']"
+33,17,isbt - 43,workshop,
+34,17,behlana,isbt 43,"['elante mall', 'aroma', 'i.s.b.t. 17']"
+35,18,isbt 43,isbt 17,['sector 36/35']
+36,18,isbt 17,isbt 43,['sector 36/35']
+37,18,isbt 43,sukhna lake,"['sector 36/35', 'isbt 17', 'mini sectt']"
+38,18,isbt 17,kaimbwala,"['sector 17/18', 'mla flat', 'sukhna lake']"
+39,18,sukhna lake,isbt 17,"['mini sectt', 'sector 9 market']"
+40,18,isbt 43,kaimbwala,
+41,18,kaimbwala,isbt 17,"['sukhna lake', 'mini secretariat']"
+42,18,kaimbwala,isbt 43,
+43,20,isbt 43,kharar,['sohana']
+44,20,isbt 17,kharar,"['sector 21 market', 'isbt 43']"
+45,20,kharar,isbt 17,"['sohana', 'isbt 43']"
+46,20,kharar,isbt 43,['sohana']
+47,22,isbt 43,it park,['isbt 17']
+48,22,it park,isbt 43,['isbt 17']
+49,26,eco city,isbt-17,"['pgi', 'sector 17/16']"
+50,26,eco city,ctu workshop,"['pgi', 'isbt 17', 'sector 28/29']"
+51,26,dhakoli,pgi,"['zirakpur', 'railway station', 'sector 22/17']"
+52,26,railway station,dhakoli,['hallo majra']
+53,26,workshop,eco city,"['railway station', 'isbt 17', 'new opd', 'pgi']"
+54,26,dhakoli,workshop,"['zirakpur', 'airport chowk']"
+55,26,railway station,eco city,"['ctu workshop', 'sector 22/17', '16 hospital', 'pgi', 'mullanpur']"
+56,26,eco city,dhakoli,"['pgi', '16 hospital', 'isbt 17', 'ctu workshop', 'railway station']"
+57,26,dhakoli,eco city,"['railway station', 'ctu workshop', 'sector 22/17', '16 hospital', 'pgi']"
+58,26,sector 22/17,eco city,"['pgi', '16 hospital']"
+59,26,pgi,railway station,['isbt 17']
+60,26,isbt 17,dhakoli,"['sector 19/20', 'railway station', 'hallo majra']"
+61,26,dhakoli,railway station,['hallo majra']
+62,26,dhakoli,sector 22/17,"['hallo majra', 'railway station', 'sector 20/19']"
+63,26,ctu workshop,dhakoli,['hallo majra']
+64,28,mani majra,new maloya colony,['isbt 17']
+65,28,new maloya colony,workshop,
+66,28,new maloya colony,manimajra,"['isbt 17', 'railway station', 'housing board']"
+67,28,isbt-17,new maloya colony,"['sector 22/23. sector-36 market', 'sector-38 west']"
+68,28,mani majra,isbt--17,"['railway station', 'sector-26 grain market']"
+69,28,workshop,new maloya colony,
+70,2A,manimajra,ctu workshop,"['pgi', 'isbt 17', 'elante mall']"
+71,2A,manimajra,manimajra,"['28/26 grain market', 'sector 22/17', 'pgi', 'daddu majra']"
+72,2A,sector 22/17,manimajra,"['sector 15/11', 'pgi', 'sector 19/20', 'elante mall', 'housing board']"
+73,2A,ctu workshop,mani majra,"['railway station', 'housing board chowk']"
+74,2A,manimajra,isbt 17,"['sector 8/18', 'pgi', 'dhanas']"
+75,2A,isbt 17,manimajra,"['sector 18/21', 'elante mall', 'railway station']"
+76,2A,railway station,mani majra,
+77,2A,mani majra,sector 22/17,"['mani majra town', 'railway crossing', 'sector 26 grain market']"
+78,2C,mani majra,mani majra,"['railway station', 'sector 30/27', 'sector 22/17', 'pgi', 'isbt 17']"
+79,2C,mani majra,ctu workshop,"['housing board chowk', 'railway station']"
+80,2C,mani majra,isbt 17,"['dhanas', 'pgi']"
+81,2C,mani majra,sector 22/17,['railway station']
+82,2C,isbt 17,manimajra,"['sector 8/18', 'modern complex', 'indra colony']"
+83,2C,mani majra,isbt 17,['railway station']
+84,2C,railway station,mani majra,"['sector 22/17', 'pgi', 'sector 7/19', 'indira colony']"
+85,2C,sector 22/17,mani majra,"['daddu majra', 'pgi', 'sector 26/28', 'indira colony']"
+86,2C,ctu workshop,mani majra,"['sector 22/17', 'isbt 17', 'indra colony']"
+87,2F,pgi,dhakoli border,"['opd', 'i.s.b.t 17', 'railway station', 'housing board']"
+88,2F,platinum homes/sanauli,railway station,
+89,2F,sector 4 panchkula,pgi,"['railway station', 'isbt 17', 'pec', 'opd']"
+90,2F,workshop,platinum homes/sanauli,
+91,2F,railway station,sector 4 panchkula,"['railway crossing', 'housing board', 'sector 11/12 rally chowk']"
+92,2F,pgi,panchkula sector-4,"['isbt-17', 'grain market', 'railway station']"
+93,2F,platinum homes/sanauli,sector 22/17,"['housing board', 'railway station']"
+94,2F,pgi,platinum homes/sanauli,
+95,2F,platinum homes/sanauli,pgi,
+96,2F,pgi,isbt 17,
+97,2F,pgi,ctu workshop,
+98,2F,panchkula sector-4,railway station,"['sector 15/10', 'housing board']"
+99,2F,railway station,pgi,"['sector 27/26', 'isbt 17']"
+100,2F,railway station,platinum homes/sanauli,
+101,2F,ctu workshop,pgi,
+102,2F,platinum homes/sanauli,workshop,"['housing board', 'railway station']"
+103,2F,isbt 17,platinum homes/sanauli,
+104,2F,dhakoli,railway station,"['sector 21 market', 'housing board']"
+105,2G,pgi,housing board,"['sector-11/15', 'sector9/17', 'sector 26/27', 'kalagram', 'housing board chowk']"
+106,2G,housing board,panchkula bus stand,"['sector 7/8', 'geeta bhawan']"
+107,2G,pgi,panchkula bus stand,"['sector-11/15', '16/10', '9/17', 'madhya marg', 'sector-8/18geeta bhawan pkl']"
+108,2G,panchkula bus stand,housing board,"['geeta bhawan', 'sector 8/7']"
+109,2G,panchkula bus stand,pgi,"['housing board', 'sector 26 grain market', 'sector 16/10']"
+110,2G,sector 26 grain market,pgi,"['sector-19/7', 'sector- 8/18', 'sector-17/9', 'sector-16/10', 'sector-15/11']"
+111,30,nada sahib,isbt 43,
+112,30,isbt 43,nada sahib,
+113,30,nada sahib,sector 22/17,"['mani majra', 'sector 20 market']"
+114,30,sector 17,nada sahib,"['sector 20 market', 'sector 26/27', 'mani majra']"
+115,30,isbt 43,sector 17,['sector 36/35']
+116,30,mani majra,isbt 43,"['kalagram', '26/27', '20', '21', '21/22', 'isbt 17', '36/35', 'isbt 43']"
+117,30,isbt 43,mani majra,"['sector36/35', 'isbt 17', '19/27', '26/27', 'kalagram', 'manimajra']"
+118,30,railway crossing,nada sahib,"['kalagram', 'manimajra', 'majri chowk', 'nada sahib']"
+119,30,isbt 17,isbt 43,"['sector 23/22', '36/35', '42/43', 'isbt 43']"
+120,30,sector 22/17,isbt 43,['sector 35/36']
+121,30,nada sahib,housing board,['mani majra']
+122,31,omex tower,pgi,"['ranimajra', 'dmc']"
+123,31,sector 22/17,omex tower,"['pgi', 'dmc', 'ranimajra']"
+124,31,mata mansa devi,omex tower,"['railway station', 'sggs 26', 'isbt17', 'pgi', 'dmc', 'ranimajra']"
+125,31,isbt-17,mata mansa devi,"['sggs college', 'railway station']"
+126,31,omex tower,mata mansa devi,"['ranimajra', 'dmc', 'pgi', 'isbt17', 'sggs 26', 'railway station']"
+127,31,mata mansa devi,sector 22/17,"['railway station', 'sggs college']"
+128,32,pgi,dera bassi,"['new opd', 'isbt 17', 'grain market 26', 'manimajra', 'ramgarh']"
+129,32,dera bassi,pgi,"['ramgarh', 'manimajra', 'grain market 26', 'sector 22/17', 'new opd']"
+130,34,pgi,isbt 17,['punjab engineering college']
+131,34,zirakpur,hallomajra,
+132,34,sector 22/17,pgi,"['sector 16/17', 'punjab engineering college(pec)']"
+133,34,pgi,zirakpur,"['isbt 17', 'hallo majra']"
+134,34,hallo majra,dera bassi,"['zirakpur', 'mubarkpur']"
+135,34,isbt 17,dera bassi,"['sector 20/33', 'hallo majra', 'zirakpur']"
+136,34,dera bassi,sector 22/17,"['zirakpur', 'hallo majra', 'sector 33/20']"
+137,34,dera bassi,pgi,"['mubarkpur', 'hallo majra', 'aroma', 'isbt 17']"
+138,34,pgi,dera bassi,"['isbt 17', 'aroma', 'hallo majra', 'mubarkpur']"
+139,37,mani majra,isbt43,"['kalagram', 'railway station', 'ctu workshop', 'sector 22/17', 'sector 35/36', 'isbt 43']"
+140,37,isbt 43,railway station,
+141,37,railway station,isbt 43,
+142,37,isbt43,isbt17,"['sector 36/35', 'sector 23/22', 'isbt 17']"
+143,37,isbt43,isbt43,"['sector 35/36', 'isbt-17', 'sector 28 mkt', 'railway station', 'manimajra']"
+144,39,mohali ph xi,pgi,['isbt 43']
+145,39,isbt 43,mohali ph 11,['sector 68/79']
+146,39,pgi,isbt 43,['isbt 17']
+147,39,isbt 43,pgi,['isbt 17']
+148,39,mohali ph 11,isbt 43,['sector 79/68']
+149,39,pgi,mohali ph xi,['isbt 43']
+150,4A,isbt 43,isbt 43,"['sector 22/17', 'pgi', 'dhanas', 'maloya']"
+151,4C,isbt 43,isbt 43,"['maloya', 'aroma']"
+152,5A,isbt 43,ramdarbar,['sec 45 mkt']
+153,5A,ramdarbar,isbt 43,['pgi']
+154,5A,ramdarbar,ramdarbar,"['pgi', 'maloya', 'isbt 43']"
+155,5C,ramdarbar,isbt 43,['sec 45 mkt']
+156,5C,ramdarbar,ramdarbar,"['isbt 43', 'maloya']"
+157,5C,isbt 43,ramdarbar,"['maloya', 'pgi', 'sector 9/17']"
+158,71,mani majra,kaimbwala,['mata mansa devi']
+159,71,isbt 17,isbt 43,
+160,71,kaimbwala,isbt 17,"['mata mansa devi', 'modern complex', 'sector 18 market']"
+161,71,isbt 17,kaimbwala,"['sector 18 market', 'kalagram']"
+162,71,mani majra,isbt 43,"['indra colony', 'sector 27 market', 'isbt 17']"
+163,71,kaimbwala,mani majra,['mata mansa devi']
+164,71,mani majra,saketri,['mata mansa devi']
+165,71,saketri,isbt 43,"['mani majra', 'kalagram', 'isbt 17']"
+166,71,isbt 43,saketri,"['isbt 17', 'kalagram', 'mani majra']"
+167,71,kaimbwala,isbt-43,"['isbt 17', 'railway crossing']"
+168,71,isbt 43,kaimbwala,"['isbt-17', 'sector-27 market', 'railway crossing', 'manimajra']"
+169,71,isbt 43,isbt 17,
+170,71,saketri,mani majra,['mata mansa devi']
+171,76,kurali,isbt 17,"['mullanpur', 'p.g.i.']"
+172,76,block,isbt 17,"['mullanpur', 'p.g.i.']"
+173,76,isbt 17,kurali,"['p.g.i.', 'mullanpur']"
+174,76,isbt 17,block,"['p.g.i.', 'mullanpur']"
+175,79,zirakpur,sector 22/17,"['airport chowk', 'hallomajra', 'sector31/29', 'sector 20 market', 'aroma', 'sector 22/17']"
+176,79,chhatbir,pgi,"['zirakpur', 'hallo majra', 'sector-20', 'sector-22/17']"
+177,79,chhatbir zoo,sector 22/17,"['dayalpur', 'hallo majra', 'sector 21 market']"
+178,79,pgi,chhatbir,"['isbt-17', 'sector-20', 'hallo majra', 'zirakpur']"
+179,79,hallo majra,zirakpur,"['airport chowk']"
+180,79,pgi,zirakpur,"['punjab engineering college(pec)', 'isbt 17', 'hallo majra']"
+181,79,zirakpur,pgi,
+182,79,hallo majra,chhatbir,
+183,79,sector 22/17,pgi,['punjab engineering college(pec)']
+184,80,pgi,zirakpur,"['aroma', 'sector-20 market', 'hallo majra']"
+185,80,zirakpur,pgi,"['hallo majra', 'sector-20 market', 'aroma']"
+186,80,isbt 17,zirakpur,"['sector 21 market', 'elante mall', 'mauli jagran']"
+187,80,hallo majra,pgi,"['elante mall', 'sector 21 market', 'punjab engineering college(pec)']"
+188,80,sector 22/17,pgi,['punjab engineering college(pec)']
+189,80,zirakpur,sector 22/17,"['mauli jagran', 'elante mall', 'sector 21 market']"
+190,80,pgi,isbt 17,['punjab engineering college(pec)']
+191,80,zirakpur,colony no 4,"['baltana', 'mauli jagran', 'hallo majra']"
+192,80,colony no 4,zirakpur,"['hallo majra', 'mauli jagran', 'baltana']"
+193,85,zirakpur,isbt 43,"['baltana', 'hallomajra', '32 hospital', 'sector 22/17']"
+194,85,hallomajra,isbt 43,['30/32 21/34 22/17 kissan bhawan attawa chowk']
+195,85,hallomajra,zirakpur,"['vikas nagar', 'raipur kalan', 'baltana']"
+196,85,isbt 43,zirakpur,"['sector 42/43', 'isbt 17', 'tribune chowk', 'hallomajra', 'baltana']"
+197,85,isbt 43,isbt 17,"['sector 42/43', 'sector 36/35', 'sector 22/23']"
+198,85,isbt 17,zirakpur,"['aroma', 'sector 20/33', 'sector 31/29', 'hallomajra', 'mauli jagran', 'baltana']"
+199,85,sector 22/17,isbt 43,"['sector 35/36', 'sector 42/43']"
+200,85,zirakpur,22/17,"['baltana', 'mouli jagaran hallomajra 30/32 21/34']"
+201,9A,mata mansa devi,mata mansa devi,"['railway crossing', 'ram darbar', 'ctu workshop']"
+202,9A,ram darbar,mata mansa devi,"['tribune chowk', 'kalagram', 'mani majra fr', 'mata mansa devi']"
+203,9A,ctu workshop,mata mansa devi,"['railway station', 'mani majra']"
+204,9A,mata mansa devi,ctu workshop,"['mani majra', 'sector 33/32', 'phase 11 mohali']"
+205,9A,mata mansa devi,railway station,
+206,9A,mani majra,mata mansa devi,
+207,9A,railway station,mata mansa devi,"['kalagram', 'housing board', 'manimajra']"
+208,9C,mata mansa devi,railway station,"['mani majra fun republic', 'housing board', 'kalagram']"
+209,9C,railway station,mata mansa devi,
+210,9C,mani majra,mata mansa devi,"['housing board', 'railway station', 'mani majra fr']"
+211,9C,mata mansa devi,mata mansa devi,"['railway station', 'ctu workshop', 'ram darbar']"
+212,9C,mata mansa devi,mani majra,['phase 11']
+213,9C,mata mansa devi,sector 19/27,"['railway station', 'phase 11 mohali', 'sector 45/46']"
+214,9C,mata mansa devi,ctu workshop,"['mani majra', 'railway station']"
+215,9C,ctu workshop,mata mansa devi,"['ram darbar', 'sector 45/46', 'sector 26/27', 'mani majra']"
+216,101,isbt-17,manauli,"['i.s.b.t.-43', 'sohana']"
+217,101,pgi,manauli,"['isbt-17', 'isbt-43', 'sohana']"
+218,101,manauli,pgi,"['sohana', 'isbt-43', 'isbt-17']"
+219,101,manauli,isbt-17,"['sohana', 'isbt-43']"
+220,11A,sukhna lake,rock garden,['bird park']
+221,11A,11b - punjab civil secretariat,railway station,"['ctu workshop', '26 grain market', 'sukhna lake']"
+222,11A,11b - railway station,punjab civil secretariat,"['sukhna lake', '26 grain market', 'ctu workshop']"
+223,11A,rock garden,sukhna lake,['bird park']
+224,202,isbt 43,depot 3 workshop,
+225,202,depot 3 workshop,isbt 43,
+226,202,punjab civil secretariat,isbt 43,['isbt 17']
+227,202,isbt 43,punjab civil secretariat,['isbt 17']
+228,202,isbt43,isbt17,"['sec43/44', '42/43', '23/22', 'isbt17']"
+229,202,isbt 17,punjab civil secratariat,"['sector 17/9', 'ut sctt', 'mini sectt', 'high court', 'punjab civil sectt']"
+230,206,depot 3 workshop,isbt 43,
+231,206,isbt 43,it park,"['isbt 17', '26 grain market']"
+232,206,it park,isbt 43,"['26 grain market' , 'isbt 17']"
+233,206,isbt 43,depot 3 workshop,
+234,20A,kharar,isbt 17,"['sohana', 'isbt 43']"
+235,20A,isbt 43,kharar,"['sohana', 'landran']"
+236,20A,isbt 17,kharar,"['sector 21 market', 'isbt 43']"
+237,212,pgi,isbt 17,
+238,212,zirakpur,sector 22/17,"['hallo majra', 'sector 32/30', 'aroma']"
+239,212,dera bassi,pgi,"['hallo majra', 'sector-20/33', 'isbt 17']"
+240,212,sector 22/17,pgi,['punjab engineering college']
+241,212,tribune,dera bassi,['zirakpur']
+242,212,isbt 17,dera bassi,"['sector 20/33', 'hallo majra', 'zirakpur']"
+243,212,dera bassi,isbt 17 (sector 22/17),"['bhankarpur', 'zirakpur', 'sector 33/20']"
+244,212,hallo majra,dera bassi,['zirakpur']
+245,212,pgi,zirakpur,"['punjab engineering college', 'isbt 17 (sector 22/17)', 'hallo majra']"
+246,212,pgi,dera bassi,"['isbt 17', 'sector-20/33', 'hallo majra']"
+247,213,landran,hallomajra,"['sohana', 'isbt 43']"
+248,213,hallo majra,dera bassi,
+249,213,landran,dera bassi,['sector']
+250,213,dera bassi,hallo majra,['zirakpur']
+251,213,isbt 43,landran,
+252,213,dera bassi,isbt 43,"['zirakpur', 'sector 45 market']"
+253,213,dera bassi,landran,"['zirakpur', 'hallo majra', 'isbt']"
+254,214,nada sahib,ctu workshop,"['mani majra', 'railway station']"
+255,214,eco city,nada sahib,"['pgi', '16 hospital', 'isbt 17', 'ctu workshop', 'railway station', 'mani majra']"
+256,214,nada sahib,eco city,"['mani majra', 'housing board', 'railway station', 'sector 22/17', '16 hospital', 'pgi']"
+257,214,railway station,eco city,"['28 market', 'sector 22/17', '16 hospital', 'pgi', 'mullanpur']"
+258,214,eco city,mani majra,"['mullanpur', 'pgi', '16 hospital', 'isbt 17', 'railway station', 'housing board']"
+259,214,eco city,ctu workshop,"['pgi', 'isbt17', 'sector 28 market']"
+260,214,ctu workshop,eco city,"['sector 28mkt', 'sector 22/17', 'pgi', 'mullanpur']"
+261,214,railway station,nada sahib,"['housing board', 'manimajra', 'command hospital', 'old panchkula']"
+262,214,nada sahib,railway station,
+263,214,isbt 17,nada sahib,"['ctu workshop', 'railway station', 'mani majra']"
+264,214,ctu workshop,nada sahib,"['railway station', 'mani majra']"
+265,214,nada sahib,sector 22/17,"['mani majra', 'ctu workshop']"
+266,216,dera bassi,isbt 43,"['21/34', '216a']"
+267,216,isbt 43,dera bassi,"['sec 23/22', 'isbt 17 (sec 22/17)', 'aroma']"
+268,216,zirakpur,isbt 43,['aroma']
+269,216,isbt 43,dera bassi,"['21/34', '216a']"
+270,216,isbt 43,zirakpur,['aroma']
+271,216,dera bassi,isbt 43,"['sector 32 hospital/30', 'sector 34/21', 'aroma']"
+272,219,bhabat,sector 22/17,"['victoria enclave', 'zirakpur', '32 hospital']"
+273,219,bhabat,dhanas,"['zirakpur', 'tribune chowk', 'isbt 17', '16 hospital', 'pgi']"
+274,219,dhanas,bhabat,"['pgi. 16 hospital', 'isbt 17', 'tribune chowk zirakpur']"
+275,219,air force station,pgi,"['zirakpur', '32 hospital', 'aroma', '16 hospital', 'new opd']"
+276,219,pgi,isbt 17,"['new opd', 'sector 10/16']"
+277,219,hallo majra,bhabat,"['zirakpur', 'victoria enclave']"
+278,219,isbt 17,bhabat,"['32 hospital', 'zirakpur', 'victoria enclave']"
+279,219,dhanas,air force station,"['pgi', '16 hospital', 'isbt 17', '21 market', '32 hospital', 'zirakpur']"
+280,219,dhanas,isbt 17,"['pgi. 16 hospital', 'isbt 17', '']"
+281,219,22/17,dhanas,"['16/17', '16/10', 'pgi', 'dhanas']"
+282,239,isbt 43,workshop,
+283,239,lake,isbt 43,"['mini sectt.', 'isbt17', 'sector 35/34']"
+284,239,isbt 43,lake,"['sector 34/35', 'i.s.b.t. 17', 'mini secretariat']"
+285,239,sukhna lake,isbt 17,
+286,239,isbt 17,isbt 43,
+287,239,workshop,isbt 43,
+288,23A,isbt 43,depot 3 workshop,
+289,23A,khuda aliser,isbt 43,
+290,23A,isbt 43,khuda aliser,
+291,23A,depot 3 workshop,isbt 43,
+292,240,mata mansa devi,isbt 43,
+293,240,isbt 43,mata mansa devi,
+294,241,m.m. devi,isbt 43,"['mani majra', 'sector 26/28 grain market']"
+295,241,isbt 43,mata mansa devi,"['yps sector 52/61', 'sector 44/45']"
+296,242,pgi,landran,"['sec 16/10 general hospital', 'isbt 17 (sec 22/17)', 'ivy hospital down']"
+297,242,pgi,tangori,"['sector 53/42', 'ivy hospital']"
+298,242,landran,isbt 43,"['ivy hospital up', 'sec 53/42']"
+299,242,tangori,pgi,"['ivy hospital up', 'sec 42/53']"
+300,242,pgi,isbt 43,['isbt 17']
+301,242,isbt 43,tangori,"['sec 42/53', 'landran up']"
+302,242,isbt 43,pgi,"['aroma', 'new opd']"
+303,242,tangori,isbt 43,"['landran up', 'sec 42/53']"
+304,24A,pgi,isbt 43,['isbt 17']
+305,24A,isbt 43,pgi,['isbt 17']
+306,24A,isbt 17,isbt 43,
+307,24A,pgi,isbt 17,['sector 10/16 general hospital (chandigarh)']
+308,24C,isbt 17,isbt 43,['sector 36/35']
+309,24C,isbt 43,isbt 17,['sector 36/35']
+310,28A,rani majra,isbt 43,"['mullanpur', 'pgi', 'isbt 17']"
+311,28A,sarangpur barrier,rani majra,"['mullanpur', 'ecocity', 'dlf chowk', 'rasulpur', 'omax phase-2']"
+312,28A,isbt- 43,rani majra,"['isbt-17', 'pgi', 'sarangpur', 'mullanpur', 'ecocity', 'dlf chowk', 'rasulpur', 'omax phase-2']"
+313,28A,isbt- 43,sarangpur barrier,"['kissan bhawan', 'isbt-17', 'pgi', 'khuda lahora', 'sarangpur barrier']"
+314,30A,isbt 43,cantonment,
+315,30A,cantonment,isbt 43,
+316,30B,isbt 43,sector 4 (panchkula),
+317,30B,isbt 43,housing board,"['sector 36/35', 'isbt 17', 'kalagram']"
+318,30B,sector 4 panchkula,sector 26,"['11/12', '10/15', '9/16', 'kalagram', 'sector 26']"
+319,30B,housing board,punchkula sector 4,['sector 10/15 panchkula']
+320,30B,isbt 43,isbt 17,['sector 36/35']
+321,30B,housing board,isbt-43,"['railway crossing', 'grain mkt', '27 mkt', '20', '22/17', 'isbt 43']"
+322,30B,ramgarh,isbt43,"['nada saab', 'railway crossing', 'aroma', 'sector 35/36']"
+323,30B,isbt 43,ramgarh,"['sector 26 grain market', 'sector 4 panchkula', 'nada sahib']"
+324,30B,ramgarh,sector 22/17,"['nada saab', 'sector 16/9 panchkula', 'railway crossing', 'sector 20 market']"
+325,30B,isbt 17,ramgarh,"['sector 26 grain market', 'sector 4 panchkula', 'nada sahib']"
+326,30B,sector 4 panchkula,housing board,['sector-15/10 panchkula']
+327,30B,ramgarh,sector 26 grain mkt,"['nada sahib', 'sec 4 pkl', 'housing board']"
+328,30B,sector 4 panchkula,sector 22/17,['sector 20 market']
+329,30B,sector 22/17,isbt 43,
+330,30B,sector 4 (panchkula),isbt 43,
+331,32B,housing board,pgi,"['kalagram', 'railway station', 'ctu workshop', 'sector 22/17', 'pec', 'new opd']"
+332,32B,pgi,isbt - 17,"['new opd', 'pec', 'sector -10/16', 'sector -16/17']"
+333,32B,pgi,ramgarh,"['new opd', 'ctu workshop', 'housing board', 'panchkula bus stand', 'ramgarh']"
+334,32B,ramgarh,pgi,"['panchkula bus stand', 'housing board', 'railway station', 'isbt 17', 'pgi']"
+335,32B,railway station,ramgarh,"['kalagram', 'panchkula bus stand', 'devilal chowk', 'sector 26 panchkula']"
+336,32B,pgi,railway station,['isbt-17']
+337,32B,isbt 17,ramgarh,"['railway station', 'housing board']"
+338,32B,pgi,ctu workshop,"['new opd', 'isbt-17', 'sector-8/18', 'sector- 26/28', 'ctu workshop']"
+339,32B,pgi,panchkula bus stand,"['opd', 'isbt 17', 'railway station']"
+340,32B,ctu workshop,ramgarh,"['railway station', 'devilal chowk', 'sector 26']"
+341,32B,panchkula bus stand,railway station,"['housing board', 'kalagram']"
+342,32B,panchkula bus stand,housing borad,"['sector-15/10', 'sector-16/9']"
+343,32B,ramgarh,railway station,"['sector 26 panchkula', 'sector 22/23', 'devilal chowk', 'panchkula bus stand', 'housing board']"
+344,35A,sector-123,i.s.b.t.-17,"['phase-6', 'pgi']"
+345,35A,sector 123 (mohali),pgi,"['sector-125', 'jal vayu tower', 'balongi', 'phase-6', 'pgi']"
+346,35A,pgi,isbt 17,"['new opd', 'sector 11/15', 'sector 10/16', 'sector 17/16', 'isbt 17']"
+347,35A,isbt-17,sector-123,"['pgi', 'phase-6']"
+348,35B,kharar,isbt 17,"['phase 6', 'isbt 43']"
+349,35B,kharar,phase 6,['desu majra']
+350,35B,phase 6,kharar,['desu majra']
+351,35B,isbt 17,kharar,"['isbt 43', 'phase 6']"
+352,38B,tangori,pgi,"['plaksha university', 'isbt 43', 'isbt 17', 'new opd']"
+353,38B,isbt 43,pgi,"['kissan bhawan', 'sector 22/17', 'gmch 16']"
+354,38B,pgi,tangori,"['new opd', 'isbt 17', 'isbt 43', 'plaksha university']"
+355,70A,sp barrier,jayanti devi,"['parch', 'sionk']"
+356,70A,jayanti majri,isbt-17,['pec']
+357,70A,jayanti majri,mata mansa devi,"['pec', 'isbt-17', 'sector 27 market', 'railway station']"
+358,70A,mata mansa devi,jayanti majri,"['railway station', 'sector 27 market', 'isbt-17', 'pec']"
+359,I1E-24, - isbt 43,isbt 17,
+360,I1E,isbt 17,kharar,"['phase-6', 'isbt mohali']"
+361,I1E,kharar,isbt 17,"['isbt mohali', 'phase-6']"
+362,I1E-24, - isbt 17,isbt 43,
+363,11SB,sector 9a,sector 9a,"['rock garden', 'bird park', 'sukhna lake']"
+364,123A,isbt 17,railway station(mohali),"['isbt-43', 'sec-50 market']"
+365,123A,pgi,isbt 17,['pec']
+366,123A,railway station(mohali),pgi,"['sector- 50 market', 'isbt43', 'isbt 17', 'pec']"
+367,123A,pgi,isbt 43,"['pec', 'isbt-17']"
+368,123A,pgi,railway station(mohali),"['pec', 'isbt-17', 'isbt-43', 'sec-50 market']"
+369,123A,isbt 43,railway station(mohali),['sector- 50 market']
+370,123A,railway station(mohali),sector 22/17,"['sec-50 market', 'isbt-43']"
+371,123A,sector 22/17,pgi,['pec']
+372,28 B,daddu majra colony,ecocity-2 block-c takipur,"['dhanas', 'mullanpur', 'homi bhabha hospital']"
+373,28 B,isbt-43,ecocity-2 block-c takipur,"['dhanas', 'mullanpur', 'homi bhaba']"
+374,28 B,eco city-2 block-c takipur,isbt-43,"['dhanas', 'mullanpur']"
+375,38AS,new airport,isbt 17,"['sohana', 'i.s.b.t. 43']"
+376,38AS,isbt 17,new airport,"['i.s.b.t. 43', 'sohana']"
+377,C551E,pgi,isbt 43,['isbt 17']
+378,C551E,isbt 43,pgi,"['sec22/17', '16 hospital', 'new opd', 'pgi']"
+379,C551E,pgi,workshop,
+380,C551E,workshop,pgi,['sec 38/25 light point']

@@ -1,0 +1,134 @@
+No path found for route 17 (behlana → isbt 43). Skipping.
+No path found for route 26 (eco city → isbt-17). Skipping.
+No path found for route 26 (eco city → ctu workshop). Skipping.
+No path found for route 26 (dhakoli → pgi). Skipping.
+No path found for route 26 (dhakoli → workshop). Skipping.
+No path found for route 26 (eco city → dhakoli). Skipping.
+No path found for route 2C (railway station → mani majra). Skipping.
+No path found for route 2F (workshop → platinum homes/sanauli). Skipping.
+No path found for route 2F (pgi → platinum homes/sanauli). Skipping.
+No path found for route 2F (railway station → platinum homes/sanauli). Skipping.
+No path found for route 2F (isbt 17 → platinum homes/sanauli). Skipping.
+No path found for route 30 (isbt 43 → nada sahib). Skipping.
+No path found for route 30 (sector 17 → nada sahib). Skipping.
+No path found for route 30 (railway crossing → nada sahib). Skipping.
+No path found for route 31 (omex tower → pgi). Skipping.
+No path found for route 31 (omex tower → mata mansa devi). Skipping.
+No path found for route 32 (pgi → dera bassi). Skipping.
+Skipping route Unnamed: 0             131
+route_number            34
+start_stop        zirakpur
+end_stop        hallomajra
+via_stops               []
+Name: 131, dtype: object due to missing coordinates
+No path found for route 34 (pgi → zirakpur). Skipping.
+No path found for route 34 (hallo majra → dera bassi). Skipping.
+No path found for route 34 (isbt 17 → dera bassi). Skipping.
+No path found for route 34 (pgi → dera bassi). Skipping.
+No path found for route 76 (kurali → isbt 17). Skipping.
+No path found for route 76 (block → isbt 17). Skipping.
+No path found for route 76 (isbt 17 → kurali). Skipping.
+No path found for route 76 (isbt 17 → block). Skipping.
+Skipping route Unnamed: 0                                                   176
+route_number                                                  79
+start_stop                                              chhatbir
+end_stop                                                     pgi
+via_stops       [zirakpur, hallo majra, sector-20, sector-22/17]
+Name: 176, dtype: object due to missing coordinates
+Skipping route Unnamed: 0                                              178
+route_number                                             79
+start_stop                                              pgi
+end_stop                                           chhatbir
+via_stops       [isbt-17, sector-20, hallo majra, zirakpur]
+Name: 178, dtype: object due to missing coordinates
+No path found for route 79 (hallo majra → zirakpur). Skipping.
+No path found for route 79 (pgi → zirakpur). Skipping.
+Skipping route Unnamed: 0              182
+route_number             79
+start_stop      hallo majra
+end_stop           chhatbir
+via_stops                []
+Name: 182, dtype: object due to missing coordinates
+No path found for route 80 (pgi → zirakpur). Skipping.
+No path found for route 80 (isbt 17 → zirakpur). Skipping.
+No path found for route 80 (colony no 4 → zirakpur). Skipping.
+Skipping route Unnamed: 0                                                 194
+route_number                                                85
+start_stop                                          hallomajra
+end_stop                                               isbt 43
+via_stops       [30/32 21/34 22/17 kissan bhawan attawa chowk]
+Name: 194, dtype: object due to missing coordinates
+Skipping route Unnamed: 0                                       195
+route_number                                      85
+start_stop                                hallomajra
+end_stop                                    zirakpur
+via_stops       [vikas nagar, raipur kalan, baltana]
+Name: 195, dtype: object due to missing coordinates
+No path found for route 85 (isbt 43 → zirakpur). Skipping.
+No path found for route 85 (isbt 17 → zirakpur). Skipping.
+No path found for route 212 (tribune → dera bassi). Skipping.
+No path found for route 212 (isbt 17 → dera bassi). Skipping.
+No path found for route 212 (hallo majra → dera bassi). Skipping.
+No path found for route 212 (pgi → zirakpur). Skipping.
+No path found for route 212 (pgi → dera bassi). Skipping.
+Skipping route Unnamed: 0                    247
+route_number                  213
+start_stop                landran
+end_stop               hallomajra
+via_stops       [sohana, isbt 43]
+Name: 247, dtype: object due to missing coordinates
+No path found for route 213 (hallo majra → dera bassi). Skipping.
+No path found for route 213 (landran → dera bassi). Skipping.
+No path found for route 214 (eco city → nada sahib). Skipping.
+No path found for route 214 (eco city → mani majra). Skipping.
+No path found for route 214 (eco city → ctu workshop). Skipping.
+No path found for route 214 (railway station → nada sahib). Skipping.
+No path found for route 214 (isbt 17 → nada sahib). Skipping.
+No path found for route 214 (ctu workshop → nada sahib). Skipping.
+No path found for route 216 (isbt 43 → dera bassi). Skipping.
+No path found for route 216 (isbt 43 → dera bassi). Skipping.
+No path found for route 216 (isbt 43 → zirakpur). Skipping.
+No path found for route 219 (bhabat → sector 22/17). Skipping.
+No path found for route 219 (bhabat → dhanas). Skipping.
+No path found for route 219 (air force station → pgi). Skipping.
+No path found for route 219 (hallo majra → bhabat). Skipping.
+Applied processor reduces input query to empty string, all comparisons will have score 0. [Query: '']
+No path found for route 219 (isbt 17 → bhabat). Skipping.
+No path found for route 219 (dhanas → air force station). Skipping.
+No path found for route 239 (lake → isbt 43). Skipping.
+No path found for route 28A (rani majra → isbt 43). Skipping.
+No path found for route 28A (sarangpur barrier → rani majra). Skipping.
+No path found for route 28A (isbt- 43 → rani majra). Skipping.
+No path found for route 30B (sector 4 panchkula → sector 26). Skipping.
+No path found for route 30B (isbt 43 → ramgarh). Skipping.
+No path found for route 30B (ramgarh → sector 22/17). Skipping.
+No path found for route 30B (isbt 17 → ramgarh). Skipping.
+No path found for route 30B (ramgarh → sector 26 grain mkt). Skipping.
+No path found for route 32B (panchkula bus stand → housing borad). Skipping.
+Skipping route Unnamed: 0                 355
+route_number               70A
+start_stop          sp barrier
+end_stop          jayanti devi
+via_stops       [parch, sionk]
+Name: 355, dtype: object due to missing coordinates
+Skipping route Unnamed: 0                356
+route_number              70A
+start_stop      jayanti majri
+end_stop              isbt-17
+via_stops               [pec]
+Name: 356, dtype: object due to missing coordinates
+Skipping route Unnamed: 0                                                    357
+route_number                                                  70A
+start_stop                                          jayanti majri
+end_stop                                          mata mansa devi
+via_stops       [pec, isbt-17, sector 27 market, railway station]
+Name: 357, dtype: object due to missing coordinates
+Skipping route Unnamed: 0                                                    358
+route_number                                                  70A
+start_stop                                        mata mansa devi
+end_stop                                            jayanti majri
+via_stops       [railway station, sector 27 market, isbt-17, pec]
+Name: 358, dtype: object due to missing coordinates
+No path found for route 28 B (eco city-2 block-c takipur → isbt-43). Skipping.
+No path found for route 38AS (new airport → isbt 17). Skipping.
+77
