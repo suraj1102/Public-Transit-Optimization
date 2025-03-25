@@ -3,6 +3,7 @@ import os
 import re
 from dateutil import parser
 from typing import Tuple, List, Dict, Any
+from collections import defaultdict
 
 from thefuzz import process
 

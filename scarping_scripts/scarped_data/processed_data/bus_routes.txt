@@ -129,7 +129,7 @@
 32-PGI To Derabassi Via New OPD , ISBT 17, Grain market 26, Manimajra, Ramgarh
 32-Derabassi To PGI Via Ramgarh, Manimajra, Grain Market 26, Sector 22/17, New OPD
 34-PGI To ISBT 17 Via Punjab engineering college
-34-Zirakpur To Hallomajra
+34-Zirakpur To Hallomajra (up)
 34-Sector 22/17 To PGI Via Sector 16/17, Punjab engineering college(PEC)
 34-PGI To Zirakpur Via ISBT 17, Hallo Majra
 34-Hallo majra To Derabassi Via Zirakpur, Mubarkpur
@@ -173,32 +173,32 @@
 76-Block To ISBT 17 Via Mullanpur, P.G.I.
 76-ISBT 17 To Kurali Via P.G.I., Mullanpur
 76-ISBT 17 To Block Via P.G.I., Mullanpur
-79-Zirakpur To Sector 22/17 Via Airport chowk, Hallomajra, Sector31/29, Sector 20 Market ,Aroma, Sector 22/17
-79-Chhatbir To PGI Via Zirakpur, Hallo majra, Sector-20, Sector-22/17
+79-Zirakpur To Sector 22/17 Via Airport chowk, Sector31/29, Sector 20 Market ,Aroma, Sector 22/17
+79-Chhatbir zoo To PGI Via Zirakpur, Hallo majra, Sector-20, Sector-22/17
 79-Chhatbir zoo To Sector 22/17 Via Dayalpur, Hallo Majra, Sector 21 Market
-79-PGI To Chhatbir Via ISBT-17, Sector-20, Hallo majra, Zirakpur
-79-hallo majra To Zirakpur Via Airport chowk,
+79-PGI To Chhatbir zoo Via ISBT-17, Sector-20, Hallo majra, Zirakpur
+79-hallo majra (down) To Zirakpur Via Airport chowk,
 79-PGI To Zirakpur Via Punjab engineering college(PEC), ISBT 17, Hallo Majra
 79-Zirakpur To PGI
-79-Hallo Majra To Chhatbir
+79-Hallo Majra To Chhatbir zoo
 79-Sector 22/17 To PGI Via Punjab engineering college(PEC)
 80-PGI To Zirakpur Via Aroma, Sector-20 market, Hallo majra
 80-Zirakpur To PGI Via Hallo majra, Sector-20 market, Aroma
 80-ISBT 17 To Zirakpur Via Sector 21 Market, Elante Mall, Mauli Jagran
-80-Hallo majra To PGI Via Elante Mall, Sector 21 Market, Punjab engineering college(PEC)
+80-Hallo majra (up) To PGI Via Elante Mall, Sector 21 Market, Punjab engineering college(PEC)
 80-Sector 22/17 To PGI Via Punjab engineering college(PEC)
 80-Zirakpur To Sector 22/17 Via Mauli Jagran, Elante Mall, Sector 21 Market
 80-PGI To ISBT 17 Via Punjab engineering college(PEC)
 80-Zirakpur To Colony No 4 Via Baltana, Mauli jagran, Hallo majra
 80-Colony No 4 To Zirakpur Via Hallo majra, Mauli jagran, Baltana
-85-ZIRAKPUR To ISBT 43 Via BALTANA, HALLOMAJRA, 32 Hospital, Sector 22/17
-85-HALLOMAJRA To ISBT 43 Via 30/32 21/34 22/17 KISSAN BHAWAN ATTAWA CHOWK
-85-HALLOMAJRA To ZIRAKPUR Via VIKAS NAGAR, RAIPUR KALAN ,BALTANA
-85-ISBT 43 To ZIRAKPUR Via SECTOR 42/43, ISBT 17, TRIBUNE CHOWK,HALLOMAJRA, BALTANA
+85-ZIRAKPUR To ISBT 43 Via BALTANA, 32 Hospital, Sector 22/17
+85-HALLOMAJRA (up) To ISBT 43 Via 30/32 21/34 22/17 KISSAN BHAWAN ATTAWA CHOWK
+85-HALLOMAJRA (down) To ZIRAKPUR Via VIKAS NAGAR, RAIPUR KALAN ,BALTANA
+85-ISBT 43 To ZIRAKPUR Via SECTOR 42/43, ISBT 17, TRIBUNE CHOWK, BALTANA
 85-ISBT 43 To ISBT 17 Via SECTOR 42/43,SECTOR 36/35,SECTOR 22/23,
-85-ISBT 17 To ZIRAKPUR Via AROMA, SECTOR 20/33,SECTOR 31/29,HALLOMAJRA,MAULI JAGRAN,BALTANA
+85-ISBT 17 To ZIRAKPUR Via AROMA, SECTOR 20/33,SECTOR 31/29,MAULI JAGRAN,BALTANA
 85-Sector 22/17 To ISBT 43 Via Sector 35/36, Sector 42/43
-85-ZIRAKPUR To 22/17 Via BALTANA, MOULI JAGARAN HALLOMAJRA 30/32 21/34
+85-ZIRAKPUR To 22/17 Via BALTANA
 9A-Mata mansa devi To Mata mansa devi Via Railway crossing, Ram darbar, CTU workshop
 9A-Ram Darbar To Mata Mansa Devi Via Tribune Chowk, Kalagram, Mani Majra FR, Mata Mansa Devi
 9A-CTU workshop To Mata mansa devi Via Railway Station, Mani Majra
@@ -245,7 +245,7 @@
 212-Hallo Majra To Derabassi Via Zirakpur
 212-PGI To Zirakpur Via Punjab engineering college, ISBT 17 (Sector 22/17), Hallo Majra
 212-PGI To Derabassi Via ISBT 17, Sector-20/33, Hallo majra
-213-Landran To Hallomajra Via Sohana, ISBT 43
+213-Landran To Hallomajra (up) Via Sohana, ISBT 43
 213-Hallo majra To Derabassi
 213-Landran To Derabassi Via Sector
 213-Derabassi To Hallo Majra Via Zirakpur
